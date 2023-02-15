@@ -1,0 +1,5 @@
+pydantic[email]
+pytest
+jsonschema
+Flask
+requests
